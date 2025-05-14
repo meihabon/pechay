@@ -1,0 +1,6 @@
+Timestamp: 2025-05-10 18:43:07
+{"lightSensor":{"light_intensity":1361,"status":1},"soundSensor":{"value":67,"status":1},"humidityTemperatureSensor":{"humidity":45,"temperature":37,"status":1},"airQualitySensor":{"co2":789,"status":1}}
+
+Timestamp: 2025-05-10 18:47:23
+{"lightSensor":{"light_intensity":206,"status":0},"soundSensor":{"value":43,"status":0},"humidityTemperatureSensor":{"humidity":53,"temperature":39,"status":0},"airQualitySensor":{"co2":794,"status":0}}
+
